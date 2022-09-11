@@ -21,13 +21,19 @@ For this deliverable, the author has already done the following as part of Modul
 ## Results
 Below are the images of the stock performance between 2017 and 2018, as well as the execution times of the original script and refactored script.
 
-![This is an image](VBA_Challenge_2017.png)
+![Click here to view VBA_Challenge_2017.png](VBA_Challenge_2017.png)
 
-![This is an image](VBA_Challenge_2018.png)
+![Click here to view VBA_Challenge_2018.png](VBA_Challenge_2018.png)
 
-![This is an image](VBA_Stock_Performance_2017.png)
+![Click here to view VBA_Stock_Performance_2017.png](VBA_Stock_Performance_2017.png)
 
-![This is an image](VBA_Stock_Performance_2018.png)
+![Click here to view VBA_Stock_Performance_2018.png](VBA_Stock_Performance_2018.png)
+
+### Differences in Stock Performance
+Explain stock performances in 2017 and 2018.
+
+### Differences in Execution Times
+In  2017, the code ran in 0.109375 seconds. In 2018, the code finished in 0.1015625 seconds. The 2018 code was 0.0078125 seconds (7.81255 milliseconds) quicker than the 2017 code. This demonstrates that the refactoring process improved the efficiency and maintainability of the code, as well as its readability and clarity. 
 
 ## Summary
 What are the advantages or disadvantages of refactoring code? How do these pros and cons apply to refactoring the original VBA script?
