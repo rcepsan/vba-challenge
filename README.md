@@ -42,7 +42,7 @@ Refactoring, which can be thought as revising and maintaining code, is an import
 
 Since the 2018 code was quicker than the 2017 code, this demonstrates that the most recent code is formatted in such a manner whereas the there is are little-to-no examples of confusing, excessive codes, as well as no redundances (Hemmelgarn). Refactoring not only can optimize file size but depending upon if 1) "there are no existing bugs that would be solved by refactoring the code" (Crenshaw "Discussion") and 2) "there are also no security-related anti-patterns" (Crenshaw) present in the code then this technique may improve performance. Sometimes however, there are disadvantages in refactoring code if the process becomes too inefficient without a worthwile pay off, such as debugging and optimizing the file size. 
 
-Tie back this concept to the 2017 and 2018 execution times.
+The same conceptual reasoning can be applied to this project. 
 
-## Resources
-This site was built using [Refactoring: how to improve source code](https://pages.github.com/](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring/) and [Hemmelgarn's Commentt on the Discussion](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9)
+### Resources
+This site was built using [Refactoring_How_to_improve_source_code](https://pages.github.com/](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring) and [Hemmelgarn's Comment on the Discussion_Board](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9).
