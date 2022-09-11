@@ -32,10 +32,10 @@ Below are the images of the stock performance between 2017 and 2018, as well as 
 ### Differences in Stock Performance
 
 #### 2017
-According to the supplied data set, in 2017, the most widely purchased stock was SPWR with the annual maximum of Total Daily Volume at 782,187,000 and the least widely purchased one was DQ at 35,796,200. The stock that had the highest return percentage was DQ however, reaching 199.4%. The stock that had the lowest return percentage was TERP, losing 7.2%. 
+According to the supplied data set, in 2017, the most widely purchased stock was SPWR with the annual maximum of Total Daily Volume at 782,187,000 and the least widely purchased one was DQ at 35,796,200. The stock that had the highest return percentage was DQ however, reaching +199.4%. The stock that had the lowest return percentage was TERP, losing 7.2%. The median return for this year was +41.5% and the average return was +67.3%. 
 
 #### 2018
-In 2018, the most widely purchased stock was ENPH with the annual maximum of Total Daily Volume at 607,473,500 and the least widely purchased one was AY at 83,079,900. The stock that had the highest return percentage was RUN, reaching 84.0%. The stock that had the lowest return percentage was DQ, losing 62.6%. 
+In 2018, the most widely purchased stock was ENPH with the annual maximum of Total Daily Volume at 607,473,500 and the least widely purchased one was AY at 83,079,900. The stock that had the highest return percentage was RUN, reaching +84.0%. The stock that had the lowest return percentage was DQ, losing 62.6%. The median return for this year was -12.0% and the average return was -8.5%. 
 
 ### Differences in Execution Times
 In  2017, the code ran in 0.109375 seconds. In 2018, the code finished in 0.1015625 seconds. The 2018 code was 0.0078125 seconds (7.81255 milliseconds) quicker than the 2017 code. This demonstrates that the refactoring process improved the efficiency and maintainability of the code, as well as its readability and clarity. 
@@ -50,5 +50,5 @@ Since the 2018 code was quicker than the 2017 code, this demonstrates that the m
 Since the 2018 execution time is quicker than the 2017 execution time, the author was able to rewrite the code to be more concise, up to date, and of a reasonable file size, thus improving the efficiency and performance of the original VBA script.
 
 ### Resources
-This site was built using [Refactoring_How_to_improve_source_code](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring) and [Hemmelgarn's Comment on the Discussion_Board](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9).
+This site was built using [Refactoring: How to improve source code](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring) and [Hemmelgarn's Comment on the Discussion Board](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9).
 
