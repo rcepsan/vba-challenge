@@ -1,8 +1,8 @@
-# Module 2 Challenge - VBA Script
+# Refactoring VBA Code and Measuring Performance
 Roselyanne Cepero Santos
 
 ## Overview of Project
-Explain the purpose of this analysis
+The purpose of this analysis is to demonstrate the ability to refactor Microsoft Visual Basic for Applications (VBA) code and measure performance. 
 
 ## Results
 Using images of examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and refactored script.
