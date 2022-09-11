@@ -45,4 +45,4 @@ Since the 2018 code was quicker than the 2017 code, this demonstrates that the m
 The same conceptual reasoning can be applied to this project. 
 
 ### Resources
-This site was built using [Refactoring_How_to_improve_source_code](https://pages.github.com/](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring) and [Hemmelgarn's Comment on the Discussion_Board](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9).
+This site was built using [Refactoring_How_to_improve_source_code](https://www.ionos.com/digitalguide/websites/web-development/what-is-refactoring) and [Hemmelgarn's Comment on the Discussion_Board](https://dev.to/crenshaw_dev/how-do-you-know-when-to-not-refactor-14d9).
