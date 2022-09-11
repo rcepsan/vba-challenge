@@ -37,11 +37,10 @@ In  2017, the code ran in 0.109375 seconds. In 2018, the code finished in 0.1015
 
 ## Summary
 Refactoring, which can be thought as revising and maintaining code, is an important technique in order to increase the readability and clarity of the code all the while removing and preventing bugs. Written by IONOS, they stated in *Refactoring: how to improve source code* that: 
-> another goal of refactoring is to **improve error analyis and the maintainability** of software. <
-Since the 2018 code was quicker than the 2017 code, this demonstrates that the most recent code is formatted in such a manner whereas the there is are little-to-no examples of confusing, excessive codes, as well as no redundances (Hemmelgarn). Refactoring not only can optimize file size but depending upon if 
-> 1. there are no existing bugs that would be solved by refactoring the code (Crenshaw "Discussion") [and;] <
-> 2. there are also no security-related anti-patterns (Crenshaw "Discussion") [present in the code,] <
-then this technique may improve performance. Sometimes however, there are disadvantages in refactoring code if the process becomes too inefficient without a worthwile pay off, such as debugging and optimizing the file size. 
+
+> another goal of refactoring is to **improve error analyis and the maintainability** of software.
+
+Since the 2018 code was quicker than the 2017 code, this demonstrates that the most recent code is formatted in such a manner whereas the there is are little-to-no examples of confusing, excessive codes, as well as no redundances (Hemmelgarn). Refactoring not only can optimize file size but depending upon if 1) "there are no existing bugs that would be solved by refactoring the code" (Crenshaw "Discussion") and 2) "there are also no security-related anti-patterns" (Crenshaw) present in the code then this technique may improve performance. Sometimes however, there are disadvantages in refactoring code if the process becomes too inefficient without a worthwile pay off, such as debugging and optimizing the file size. 
 
 Tie back this concept to the 2017 and 2018 execution times.
 
