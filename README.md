@@ -21,5 +21,13 @@ For this deliverable, the author has already done the following as part of Modul
 ## Results
 Below are the images of the stock performance between 2017 and 2018, as well as the execution times of the original script and refactored script.
 
+![This is an image](VBA_Challenge_2017.png)
+
+![This is an image](VBA_Challenge_2018.png)
+
+![This is an image](VBA_Stock_Performance_2017.png)
+
+![This is an image](VBA_Stock_Performance_2018.png)
+
 ## Summary
 What are the advantages or disadvantages of refactoring code? How do these pros and cons apply to refactoring the original VBA script?
